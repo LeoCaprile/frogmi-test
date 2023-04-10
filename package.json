@@ -1,0 +1,12 @@
+{
+  "name": "prueba-tecnica-frogmi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^0.30.0"
+  }
+}
